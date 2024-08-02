@@ -1,1 +1,1 @@
-# CruD
+Esta práctica consiste en implementar un sistema CRUD utilizando CodeIgniter para gestionar una base de datos PostgreSQL, permitiendo insertar, modificar y eliminar registros en una tabla llamada registro.
